@@ -1,4 +1,13 @@
-### Hi there 👋
+![grace joh banner](https://github.com/grace-joh/grace-joh/assets/105441393/0ceab875-e652-4b74-82ab-7502e56303e3)
+
+<h3 align="center">Hi, I'm Grace! 👋</h3>
+<p align="center">I'm a teacher turned software engineer with a passion for making beautiful applications with the user in mind.</p>
+
+<h2>I'd love to connect with you! 🫶🏻</h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/graceehjoh) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graceehjoh@gmail.com)
+
+<br>
 
 <!--
 **grace-joh/grace-joh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
