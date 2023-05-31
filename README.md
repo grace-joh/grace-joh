@@ -37,7 +37,7 @@
 #### 🌱 Currently Learning 🌱
 - Cloud <br>
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CircleCI](https://img.shields.io/badge/Cirrus_CI-4051B5?style=for-the-badge&logo=cirrusci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 <br>
 
