@@ -53,9 +53,12 @@
 
 <h2>My Stats 📈</h2>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=grace-joh&color=c7d1f8&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-joh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 [![Grace Joh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-joh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **grace-joh/grace-joh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
