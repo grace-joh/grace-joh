@@ -11,6 +11,16 @@
 
 <br>
 
+<h2>🧩 My Projects 🧩</h2>
+
+[![RentInform FE](https://github-readme-stats.vercel.app/api/pin/?username=rentinform&repo=rent-inform-fe)](https://github.com/rentinform/)
+[![RentInform BE](https://github-readme-stats.vercel.app/api/pin/?username=rentinform&repo=rent-inform-be)](https://github.com/rentinform/)
+[![Weather the Trip API](https://github-readme-stats.vercel.app/api/pin/?username=grace-joh&repo=weather_the_trip_api)](https://github.com/grace-joh/weather_the_trip_api)
+[![Viewing Party](https://github-readme-stats.vercel.app/api/pin/?username=grace-joh&repo=viewing_party_lite_7)](https://github.com/grace-joh/viewing_party_lite_7)
+
+
+<br>
+
 <h2>✨ Skills and Interest ✨</h2>
 
 - Back End Development <br>
@@ -34,7 +44,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-#### 🌱 Currently Learning 🌱
+#### 🌱 Current Interests 🌱
 - Cloud <br>
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
