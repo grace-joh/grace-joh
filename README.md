@@ -14,7 +14,7 @@
 <h2>🧩 My Projects 🧩</h2>
 
 [![RentInform FE](https://github-readme-stats.vercel.app/api/pin/?username=rentinform&repo=rent-inform-fe)](https://github.com/rentinform/)
-[![RentInform BE](https://github-readme-stats.vercel.app/api/pin/?username=rentinform&repo=rent-inform-be)](https://github.com/rentinform/)
+[![RentInform BE](https://github-readme-stats.vercel.app/api/pin/?username=rentinform&repo=be-rent-inform)](https://github.com/rentinform/)
 [![Weather the Trip API](https://github-readme-stats.vercel.app/api/pin/?username=grace-joh&repo=weather_the_trip_api)](https://github.com/grace-joh/weather_the_trip_api)
 [![Viewing Party](https://github-readme-stats.vercel.app/api/pin/?username=grace-joh&repo=viewing_party_lite_7)](https://github.com/grace-joh/viewing_party_lite_7)
 
